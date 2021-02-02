@@ -24,7 +24,7 @@ int main() {
 
     int ans = maxNum(a, b, c, d);
 
-    cout << ans;
+    cout << ans << endl;
 
     return 0;
 }
